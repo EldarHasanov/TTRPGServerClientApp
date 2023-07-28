@@ -1,0 +1,15 @@
+C:\ProjectsWar\DNDApplication\DNDServerApp\bin\Debug\net6.0\DNDServerApp.exe
+C:\ProjectsWar\DNDApplication\DNDServerApp\bin\Debug\net6.0\DNDServerApp.deps.json
+C:\ProjectsWar\DNDApplication\DNDServerApp\bin\Debug\net6.0\DNDServerApp.runtimeconfig.json
+C:\ProjectsWar\DNDApplication\DNDServerApp\bin\Debug\net6.0\DNDServerApp.dll
+C:\ProjectsWar\DNDApplication\DNDServerApp\bin\Debug\net6.0\DNDServerApp.pdb
+C:\ProjectsWar\DNDApplication\DNDServerApp\obj\Debug\net6.0\DNDServerApp.csproj.AssemblyReference.cache
+C:\ProjectsWar\DNDApplication\DNDServerApp\obj\Debug\net6.0\DNDServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectsWar\DNDApplication\DNDServerApp\obj\Debug\net6.0\DNDServerApp.AssemblyInfoInputs.cache
+C:\ProjectsWar\DNDApplication\DNDServerApp\obj\Debug\net6.0\DNDServerApp.AssemblyInfo.cs
+C:\ProjectsWar\DNDApplication\DNDServerApp\obj\Debug\net6.0\DNDServerApp.csproj.CoreCompileInputs.cache
+C:\ProjectsWar\DNDApplication\DNDServerApp\obj\Debug\net6.0\DNDServerApp.dll
+C:\ProjectsWar\DNDApplication\DNDServerApp\obj\Debug\net6.0\refint\DNDServerApp.dll
+C:\ProjectsWar\DNDApplication\DNDServerApp\obj\Debug\net6.0\DNDServerApp.pdb
+C:\ProjectsWar\DNDApplication\DNDServerApp\obj\Debug\net6.0\DNDServerApp.genruntimeconfig.cache
+C:\ProjectsWar\DNDApplication\DNDServerApp\obj\Debug\net6.0\ref\DNDServerApp.dll
